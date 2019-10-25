@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337998752849",
+    "firebase_url": "https://crickettalks-e5bd8.firebaseio.com",
+    "project_id": "crickettalks-e5bd8",
+    "storage_bucket": "crickettalks-e5bd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337998752849:android:0f0742242033707f",
+        "android_client_info": {
+          "package_name": "com.example.android.crickettalks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337998752849-otnuop0rcvhil3utbkdp65ld6i5vh1si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.crickettalks",
+            "certificate_hash": "cb82dff075c25902265576ff112cbf95bd8421d9"
+          }
+        },
+        {
+          "client_id": "337998752849-lib9tn9dv1rov9npr6npaqjf14a20hpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD70E9Q6lpfIkZcWIWpLwYQ-91mzPurljY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337998752849-lib9tn9dv1rov9npr6npaqjf14a20hpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
